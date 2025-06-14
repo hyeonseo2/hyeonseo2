@@ -3,6 +3,7 @@
 </div>
 
 ### Hello, I'm Hyeonseo Yun 👋
+**Note**: Due to login issues with [my previous GitHub account](https://github.com/0525hhgus), I have migrated to this account.
 
 <!--
 **0525hhgus/0525hhgus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -29,13 +30,12 @@ https://blog.cowkite.com/blog/2102241544/
 </p>
 
 - 🔭 I’m currently working on ...
-	- Hadoop Ecosystem
+	- Bigdata Platform
 	- AI, NLP
 
 - 🌱 I’m currently learning ...
-	- Hadoop Ecosystem
-	- Data Science, Data Analysis, NLP
-	- Finance
+	- Bigdata Platform
+	- Data Science, Data Analysis
 
 ---
 <!-- STATUS https://github.com/anuraghazra/github-readme-stats -->
@@ -49,91 +49,38 @@ https://blog.cowkite.com/blog/2102241544/
 </div>
 -->
 
-<!-- Tech Stack https://simpleicons.org/?q=docker -->
-### 📚 Tech Stack 📚
-#### ✨ Languages & Platforms ✨
-<div align="left">
-  	<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
-	<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Conda-Forge&logoColor=white" />
-  	<img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white"/>
-	<img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white" />
-	<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" />
-	<img src="https://img.shields.io/badge/MariaDB-003545?style=flat&logo=MariaDB&logoColor=white" />
-	<img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=Linux&logoColor=white" />
-	<br>
-  	<img src="https://img.shields.io/badge/Hadoop Ecosystem-66CCFF?style=flat&logo=apachehadoop&logoColor=white"/>
-	<img src="https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white" />
-	<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white" />
-</div>
-
-#### 🛠 Tools 🛠
-
-<div align="left">
-  <img src="https://img.shields.io/badge/IntelliJ-000000?style=flat&logo=intellijidea&logoColor=white"/>
-	<img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white" />
-	<img src="https://img.shields.io/badge/Pycharm-000000?style=flat&logo=pycharm&logoColor=white" />
-	<img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white" />
-	<img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat&logo=androidstudio&logoColor=white" />
-	<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white" />
-</div>
-
----
-
-### 💻 Project 💻
+### Project & Competition
 <details>
-  <summary>In progress</summary>
+  <summary>2025~</summary>
   <div markdown="1">
-    <ul>
-      <li><a href="https://github.com/huggingface/transformers/issues/20179"/>HuggingFace transfomers Docs Translation</li>
-    </ul>
-  </div>
-</details>
-<details>
-  <summary>2023~</summary>
-  <div markdown="1">
-    <a href="https://github.com/0525hhgus/DaCrew4_MonthCrew-Predict_APT_Price">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=0525hhgus&repo=DaCrew4_MonthCrew-Predict_APT_Price" /></a>
-    <a href="https://github.com/0525hhgus/DaCrew6_credict-delinquency-prediction">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=0525hhgus&repo=DaCrew6_credict-delinquency-prediction" /></a>
   </div>
 </details>
 
 <details>
-  <summary>2021~2022</summary>
+  <summary>2021~2024</summary>
   <div markdown="1">
-    <a href="https://github.com/0525hhgus/AutoML-MAT-dacrew2-Activity">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=0525hhgus&repo=AutoML-MAT-dacrew2-Activity" /></a>
-    <a href="https://github.com/0525hhgus/Detect-Bias-Sentence">
+    <br>
+    <li><a href="https://github.com/huggingface/transformers/issues/20179"/>HuggingFace transfomers Docs Translation</li>
+    <br>
+    <a href="https://github.com/hyeonseo2/ai-writing-supporter">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hyeonseo2&repo=ai-writing-supporter" /></a>
+    <a href="https://github.com/hyeonseo2/ai-emotion-diary">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hyeonseo2&repo=ai-emotion-diary" /></a>
+    <br></br>
+    <a href="https://github.com/hyeonseo2/PA-Presentation-Assistant">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hyeonseo2&repo=PA-Presentation-Assistant" /></a>
+    <a href="https://github.com/hyeonseo2/smartpole-location-recommender">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hyeonseo2&repo=smartpole-location-recommender" /></a>
+    <br></br>
+    <a href="https://github.com/hyeonseo2/korean-abstractive-summarization">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hyeonseo2&repo=korean-abstractive-summarization" /></a>
+    <a href="https://github.com/hyeonseo2/ML-Olympiad-detect-gen-ai-answers">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hyeonseo2&repo=ML-Olympiad-detect-gen-ai-answers"/></a>
+    <a href="https://github.com/hyeonseo2/bus-qr-transit-app">
+    <br></br>
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hyeonseo2&repo=bus-qr-transit-app" /></a>
+      <a href="https://github.com/0525hhgus/Detect-Bias-Sentence">
       <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=0525hhgus&repo=Detect-Bias-Sentence" /></a>
-  </div>
-</details>
-
----
-### 🏆 Competition 🏆
-<details>
-  <summary>2023~</summary>
-  <div markdown="1">
-    <a href="https://github.com/0525hhgus/PA-Presentation-Assistant">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=0525hhgus&repo=PA-Presentation-Assistant" /></a>
-    <a href="https://github.com/0525hhgus/Gangseogu-Bigdata-Smartpole">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=0525hhgus&repo=Gangseogu-Bigdata-Smartpole" /></a>
     <br></br>
-    <a href="https://github.com/0525hhgus/Korean-Abstractive-Summarization">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=0525hhgus&repo=Korean-Abstractive-Summarization" /></a>
-    <a href="https://github.com/0525hhgus/ML-Olympiad_Detect-ChatGpt-answers">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=0525hhgus&repo=ML-Olympiad_Detect-ChatGpt-answers"/></a>
-  </div>
-</details>
-
-<details>
-  <summary>2021~2022</summary>
-  <div markdown="1">
-    <a href="https://github.com/0525hhgus/AI-Writing-Supporter">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=0525hhgus&repo=AI-Writing-Supporter" /></a>
-    <a href="https://github.com/0525hhgus/Oasisu">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=0525hhgus&repo=Oasisu" /></a>
-    <br></br>
-    <a href="https://github.com/0525hhgus/TEAM_GQB-CommunityInnovation-Hackathon">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=0525hhgus&repo=TEAM_GQB-CommunityInnovation-Hackathon" /></a>
   </div>
 </details>
