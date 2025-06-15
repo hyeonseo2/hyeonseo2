@@ -69,8 +69,8 @@ https://blog.cowkite.com/blog/2102241544/
     <br></br>
     <a href="https://github.com/hyeonseo2/PA-Presentation-Assistant">
       <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hyeonseo2&repo=PA-Presentation-Assistant" /></a>
-    <a href="https://github.com/hyeonseo2/smartpole-location-recommender">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hyeonseo2&repo=smartpole-location-recommender" /></a>
+    <a href="https://github.com/hyeonseo2/law-summary-classifier">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hyeonseo2&repo=law-summary-classifier" /></a>
     <br></br>
     <a href="https://github.com/hyeonseo2/korean-abstractive-summarization">
       <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hyeonseo2&repo=korean-abstractive-summarization" /></a>
